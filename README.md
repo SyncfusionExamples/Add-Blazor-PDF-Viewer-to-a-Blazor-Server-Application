@@ -2,7 +2,7 @@
 
 This is a quick-start project that helps you create the Blazor PDF Viewer provided by Syncfusion. This example explains how to create a Blazor application and add the Syncfusion Blazor PDF Viewer package for Windows. Then it’ll show you how to add the Syncfusion Blazor PDF Viewer component to the Blazor server application and demonstrate the working of prominent features like text markup annotation, shape annotation, form-filling and open/save PDF document from Azure Blob storage.
 
-Watch a How-to Video:
+Watch a How-to Video: https://www.syncfusion.com/tutorial-videos/blazor/pdf-viewer?title=add-blazor-pdf-viewer-to-a-blazor-server-application
 
 Documentation: https://blazor.syncfusion.com/documentation/pdfviewer/getting-started/server-side-application
 
