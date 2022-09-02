@@ -14,7 +14,7 @@ Make sure you have the compatible versions of .NET Core on your machine before s
 * [.NET Core SDK 3.1.201+](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
 ## How to run this application
-To run this application, you need to first clone or download this ‘Add Blazor PDF Viewer to a Blazor Server Application’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
+To run this application, you need to first clone or download this ‘PDF Viewer in Blazor Server App’ repository and then open it in Visual Studio 2019 or later versions. Now, build and run your project to view the output.
 
 ## Further help
 
