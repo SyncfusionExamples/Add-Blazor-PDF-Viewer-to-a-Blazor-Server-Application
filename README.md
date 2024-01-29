@@ -1,21 +1,18 @@
 # PDF Viewer in Blazor Server App
 
-This is a quick-start project that helps you create the Blazor PDF Viewer provided by Syncfusion. This example explains how to create a Blazor application and add the Syncfusion Blazor PDF Viewer package for Windows. Then it’ll show you how to add the Syncfusion Blazor PDF Viewer component to the Blazor server application and demonstrate the working of prominent features like text markup annotation, shape annotation, form-filling and open/save PDF document from Azure Blob storage.
+This sample explains how to add the PDF Viewer component in Blazor Server Application of Blazor Web App. 
 
-Watch a How-to Video: https://www.syncfusion.com/tutorial-videos/blazor/pdf-viewer?title=add-blazor-pdf-viewer-to-a-blazor-server-application
+**Documentation**: https://blazor.syncfusion.com/documentation/pdfviewer-2/getting-started/web-app
 
-Documentation: https://blazor.syncfusion.com/documentation/pdfviewer/getting-started/server-side-application
+**Online example**: https://blazor.syncfusion.com/demos/pdf-viewer-2/default-functionalities?theme=fluent
 
-Online example: https://blazor.syncfusion.com/demos/PdfViewer/DefaultFunctionalities
+## Prerequisites
 
-## Project prerequisites
-Make sure you have the compatible versions of .NET Core on your machine before starting to work on this project. You also need the following:
-* [Visual Studio 2019 (version 16.4+)]( https://visualstudio.microsoft.com/downloads)
-* [.NET Core SDK 3.1.201+](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+* Visual Studio 2022
 
-## How to run this application
-To run this application, you need to first clone or download this ‘PDF Viewer in Blazor Server App’ repository and then open it in Visual Studio 2019 or later versions. Now, build and run your project to view the output.
+## How to run the project
 
-## Further help
-
-To get more help, check out the [ASP.NET Core Blazor documentation](https://docs.microsoft.com/en-us/aspnet/core/blazor).
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
